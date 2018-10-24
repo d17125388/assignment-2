@@ -5,7 +5,7 @@ try:
     with open('csv.txt', newline='', encoding="ISO-8859-1") as file1:
         file2 = open('file2.txt', 'w')
         reader = csv.reader(file1)
-        writer = csv.writer(file2)
+        
         for row in reader:
             print(row[0],',',row[11],file=file2)
 
