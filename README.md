@@ -17,8 +17,8 @@ Anything greater than story point 5, we should break down into a smaller story.
 | ------------- | ------------- |
 | 10/10/2018  | Mike |
 | 17/10/2018  | Brandon |
-| 24/10/2018  | Ade |
-| 31/10/2018  | Andy |
+| 24/10/2018  | Andy |
+| 31/10/2018  | Ade |
 | 07/11/2018  | Mike |
 
 ### Scrum Master Responsibilities
