@@ -3,8 +3,11 @@ Frontend Repository: https://github.com/d17125388/assignment-2-frontend
 
 ### How to clone
 git clone https://github.com/d17125388/assignment-2
+
 cd assignment-2
+
 pip install -r requirements.txt
+
 server.py
 
 ### Estimations
