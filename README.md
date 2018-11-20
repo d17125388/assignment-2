@@ -2,18 +2,16 @@
 Frontend Repository: https://github.com/d17125388/assignment-2-frontend
 
 ### How to clone
-*
 git clone https://github.com/d17125388/assignment-2
-*
 cd assignment-2
 
 
-*Recommended:
+***Recommended:
 py -m virtualenv env
 .\env\Scripts\activate
 
-*pip install -r requirements.txt
-*server.py
+pip install -r requirements.txt
+server.py
 
 ### Estimations
 
